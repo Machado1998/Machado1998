@@ -9,7 +9,7 @@
 
 Hello! my name is Bruno, I'm 27 years old, I'm from Brasil and I'm graduating in Analysis and systems development.<br>
 
-***Currently I'm looking for a internship to improve my knowledge and evolve as a professional.***|
+***Currently I'm looking for a internship to improve my knowledge and evolve as a professional.***
 --
 
 
