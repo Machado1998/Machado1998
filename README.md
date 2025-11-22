@@ -55,4 +55,5 @@ Hello! my name is Bruno, I'm 27 years old, I'm from Brasil and I'm graduating in
 <br>
 
   ## 📖 Courses and certificates:
-  [Lógica de Programação DIO](https://www.dio.me/certificate/XMXTK3CL/share)
+- [Lógica de Programação DIO](https://www.dio.me/certificate/XMXTK3CL/share) <br>
+- [Formação Github Certification](https://www.dio.me/certificate/G6HTPUOV/share) <br>
