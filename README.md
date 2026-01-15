@@ -32,7 +32,8 @@ Hello! my name is Bruno, I'm 27 years old, I'm from Brasil and I'm graduating in
 
   ## 🧰 Technologies:
   <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"width="50px style="margin: 0 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"width="50px style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"width="50px style="margin: 0 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"width="50px style="margin: 0 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"width="50px style="margin: 0 10px;" />
+          
   </div>
   <br>
 
@@ -57,3 +58,4 @@ Hello! my name is Bruno, I'm 27 years old, I'm from Brasil and I'm graduating in
   ## 📖 Courses and certificates:
 - [Lógica de Programação DIO](https://www.dio.me/certificate/XMXTK3CL/share) <br>
 - [Formação Github Certification](https://www.dio.me/certificate/G6HTPUOV/share) <br>
+- [Formação HTML Web Developer](https://www.dio.me/certificate/3UKEMGNI/share) <br>
